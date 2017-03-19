@@ -29,3 +29,49 @@ h1 {
   color:red;
   font-size: 1.5rem;
 }
+
+
+
+
+
+
+
+/*Footer Background Formating*/
+.homepage-footer {
+  border: 1px solid #ccc;
+  background: black;
+  margin: 0 auto;
+  height: auto;
+  width: auto;
+}
+
+h4 {
+  text-align: left;
+  color: white;
+  font-size: 1.5rem;
+}
+
+.footer-text-part1 {
+  text-align: left;
+  line-height: 0.2;
+  color: white;
+  font-size:1.5rem;
+}
+
+.email {
+  text-align: left;
+  color: red;
+  font-size: 1.5rem;
+}
+
+.telephone-number {
+  text-align: left;
+  color: white;
+  font-size: 1.5rem;
+}
+
+.footer-text-part2 {
+  text-align: center;
+  color: white;
+  font-size: 1.5rem;
+}
