@@ -64,6 +64,21 @@ h1 {
   color: purple;
 }
 
+/*Aside Formating*/
+article {
+  float: left;
+  width: 60%;
+}
+aside {
+  float: right;
+  width: 30%;
+}
+footer {
+  clear: both;
+  margin-bottom: 0;
+}
+
+/*Article Formatting*/
 
 
 
@@ -106,3 +121,5 @@ h4 {
   color: white;
   font-size: 25px;
 }
+
+/*Page Positioning*/
