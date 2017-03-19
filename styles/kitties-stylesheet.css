@@ -1,9 +1,31 @@
+/* Header Background Formating*/
 .homepage-header {
   border: 1px solid #ccc;
-  background: #ddd;
-    margin: 0 auto;
-    height: 20rem;
-  width: 20rem;
-  }
+  background: black;
+  margin: 0 auto;
+  height: auto;
+  width: auto;
+}
 
-  
+/*Header Text Formating and Orientation*/
+h1 {
+  text-align: left;
+  color: white;
+  font-size: 3rem;
+}
+
+.subheader {
+  text-align: left;
+  line-height: 0;
+  color: grey;
+  font-size: 2rem;
+}
+
+.header-bookacat-link {
+  text-align: right;
+}
+
+.link-color-1 {
+  color:red;
+  font-size: 1.5rem;
+}
