@@ -21,14 +21,15 @@ h1 {
   font-size: 2rem;
 }
 
-.header-bookacat-link {
+.header-bookacat-link-text {
   text-align: right;
 }
 
-.link-color-1 {
-  color:red;
+.header-bookacat-link {
+  color: red;
   font-size: 1.5rem;
 }
+
 
 /*Navigation Formating*/
 .nav {
@@ -64,22 +65,29 @@ h1 {
   color: purple;
 }
 
-/*Aside Formating*/
+/*Page Positioning and Formating*/
 article {
   float: left;
   width: 60%;
 }
 aside {
-  float: right;
+  float: right; 
   width: 30%;
+  border-style: solid;
+  padding: 24px 30px;
+  text-align: center;
 }
+
 footer {
   clear: both;
   margin-bottom: 0;
 }
 
-/*Article Formatting*/
-
+/*Aside*/
+.link-color-1 {
+  color: red;
+  text-align: right;
+}
 
 
 /*Footer Background Formating*/
